@@ -20,3 +20,4 @@ Programming languages provide the **syntax** and **rules** for structuring these
 
 - **Functions/Methods:**  
   Reusable blocks of code that perform specific tasks, making programs modular and organized.
+
