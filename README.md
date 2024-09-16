@@ -4,6 +4,9 @@ A programming language is a formal system used to write instructions that a comp
 These instructions, or code, enable programmers to communicate with computers and tell them what to do.  
 Programming languages provide the **syntax** and **rules** for structuring these instructions, allowing developers to create software, applications, and systems.
 
+
+![DALL·E 2024-09-16 23 27 32 - A visual representation of a computer executing a set of instructions  The image shows a computer screen with lines of code written in a programming l](https://github.com/user-attachments/assets/c87dffa2-a11d-4c3d-8e98-393d6d0085d9)
+
 ### 🌟 Basic Overview:
 
 - **Syntax:**  
